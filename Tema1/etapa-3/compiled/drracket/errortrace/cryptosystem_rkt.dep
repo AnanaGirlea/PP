@@ -1,0 +1,1 @@
+("8.4" ta6osx ("71fd457e51d045ab2419cf16b6e3c6f1b972b8b0" . "81a0246bee95d93bf6174f55f964b1b2b1bf90f6") #"/Users/ananagirlea/Downloads/etapa-3/ppt.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt"))
